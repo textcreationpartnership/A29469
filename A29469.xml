@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief narrative of the several popish treasons and cruelties against the Protestants in England, France, and Ireland giving a full account of the Popish Plot, and a full discovery of the manner of the murther of Sir Edmund-bury Godfrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29469</idno>
+            <idno type="STC">Wing B4616</idno>
+            <idno type="STC">ESTC R18955</idno>
+            <idno type="EEBO-CITATION">12876864</idno>
+            <idno type="OCLC">ocm 12876864</idno>
+            <idno type="VID">94851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 731:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief narrative of the several popish treasons and cruelties against the Protestants in England, France, and Ireland giving a full account of the Popish Plot, and a full discovery of the manner of the murther of Sir Edmund-bury Godfrey.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94851:1" rendition="simple:additions"/>
+            <p>A BRIEF NARRATIVE OF THE SEVERAL POPISH <hi>Treaſons and Cruelties</hi> AGAINST THE <hi>PROTESTANTS</hi> In <hi>England, France,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Giving a Full Account of the <hi>POPISH PLOT:</hi> AND A <hi>Full Diſcovery of the Manner of the Murther of</hi> Sir <hi>Edmund-bury Godfrey.</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>P. B.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94851:2"/>
+            <pb n="1" facs="tcp:94851:2"/>
+            <head>A Brief Narrative of the ſeveral <hi>Popiſh</hi> Trea<g ref="char:EOLhyphen"/>ſons and Cruelties againſt the Proteſtants, in <hi>England,</hi> &amp;c.</head>
+            <p>WEll may we call <hi>Popery</hi> a Bloody Religion, if at leaſt we may afford the name of Re<g ref="char:EOLhyphen"/>ligion to a thing made up of Idolatry, U<g ref="char:EOLhyphen"/>ſurpation, Rebellion, and Cruelty: A<g ref="char:EOLhyphen"/>mongſt other Chriſtian Nations, <hi>England,</hi> the Land of our Nativity, has ſuffered deeply under their Tyranny; Not to mention our King <hi>John</hi> poyſon'd by a Monk, nor the ſeveral Rebellions againſt that moſt pious young King, <hi>Edward</hi> the Sixth, which were chiefly occaſioned by the Prieſts, and deſigned to bring in the <hi>Romiſh</hi> Religion; We will come to the time of Queen <hi>Mary,</hi> who reſtored the <hi>Popiſh</hi> Trum<g ref="char:EOLhyphen"/>pery, which her Father in part, and her good Brother whol<g ref="char:EOLhyphen"/>ly had ſuppreſs'd: In her five years time, there was more Chriſtian Blood ſpilt, concerning Religion and Matter of Conſcience, than had been ſhed in any one Kings Raign ſince Chriſtianity was firſt eſtabliſht in <hi>England.</hi> Then it was that divers of the chief Compilers of our <hi>Book of Com<g ref="char:EOLhyphen"/>mon.
+<pb n="2" facs="tcp:94851:3"/>Prayer,</hi> ſealed the Truths of the <hi>Proteſtant.</hi>-Doctrine with their Blood; <hi>Fire</hi> and <hi>Faggot</hi> were the Papiſts beſt arguments, and he that would not <hi>Turn</hi> againſt his Conſci<g ref="char:EOLhyphen"/>ence to the Idolatrous <hi>Maſs,</hi> muſt <hi>Burn</hi> for it; the Reverend <hi>Ridley,</hi> Biſhop of London, and <hi>Latimer,</hi> Biſhop of Worceſ<g ref="char:EOLhyphen"/>ter, were conſumed to aſhes at a Stake at Oxford; and ſome<g ref="char:EOLhyphen"/>time after the famous <hi>Cranmer,</hi> Arch-Biſhop of Canterbury, ſuffered in like manner at the ſame place; Holy <hi>John Brad<g ref="char:EOLhyphen"/>ford,</hi> an excellent Preacher, and of a moſt ſober Life, was burnt in Smith-field; as likewiſe <hi>Saunders, Taylor, Rogers, Heoper</hi> Biſhops of <hi>Gloceſter,</hi> and ſeveral other Godly Mini<g ref="char:EOLhyphen"/>ſters. In one year there were burnt for Religion above 80 perſons, beſides thoſe that dyed in priſon; and in the next, 86, of which many were Women and Maids, and one a poor blind Woman, <hi>Ann Askue</hi> by name, who yet by Ar<g ref="char:EOLhyphen"/>guments from Scripture againſt the <hi>Real Preſence,</hi> Confuted their moſt Learned Doctors. The total Number that ſuffer<g ref="char:EOLhyphen"/>ed Death for their Religion in cruel manner in this Queens ſhort Raign, is feckoned between 2 and 4 hundred, beſides multitudes compelled to leave the Land, and undone by impriſonments. After her followed Queen <hi>Elizabeth,</hi> whoſe Name will ever be precious to all Proteſtants, who Eſta<g ref="char:EOLhyphen"/>bliſhing again the true Religion, 'tis impoſſible to recite in this Sheet the ſeveral Treaſons, plots, and Conſpiracies hatched againſt her Life and Government; ſometimes the Pope curſed her, and gave away her Crown and Kingdoms, but the beſt is, none of thoſe he beſtowed them upon, were ever able to take poſſeſſion; ſometimes particular men were brib'd with Money, or ſeduced with fancy of Merit, and promiſes of Heaven for the good ſervice, to murther her; as <hi>Parry</hi> to Stabb or piſtol her, <hi>Squire</hi> to poyſon the pum<g ref="char:EOLhyphen"/>mel of her Saddel, <hi>Throgmorton</hi> to kill her in her Pallace, <hi>Lopez</hi> her Phyſician to poyſon her, for which he was to have
+<pb n="3" facs="tcp:94851:3"/>fifty thouſand Crowns, but all theſe Traytors were from time to time diſcovered, and Executed according to their deſerts: Then the <hi>Pope</hi> and <hi>Spaniard</hi> ſtirred up Rebellion in <hi>Ireland,</hi> and ſent over Souldiers thither to aſſiſt the Rebels, but they were always defeated: at laſt they both joyned to invade the Land in the year 1588. but that mighty Spaniſh Fleet was ſcattered and bear to pieces, a very few of them eſcaping by flight to tell at home the News of the others diſaſter.</p>
+            <p>In the Raign of this moſt Vertuous Maiden Queen, hap<g ref="char:EOLhyphen"/>penned ſeveral inſtances of Popiſh Treaſons and Cruelties in <hi>France.</hi> Firſt, a moſt bloody Maſſacre in the year 1572: on St. <hi>Bartholomews</hi> day at <hi>Paris,</hi> The King of <hi>Navarr,</hi> and <hi>Coligni</hi> the Admiral of <hi>France,</hi> and moſt of the cheif Proteſ<g ref="char:EOLhyphen"/>tants being aſſembled at a Wedding to be ſolemnized be<g ref="char:EOLhyphen"/>tween the ſaid King and the Siſter of the <hi>French</hi> King, on a ſudden, when no ſuch thing was in the leaſt ſuſpected, they were ſet upon, and in one night above twenty thouſand Pro<g ref="char:EOLhyphen"/>teſtants in that one City were barbarouſly Butchered with<g ref="char:EOLhyphen"/>out any provocation or warning, inſomuch that 'tis ſaid the ſtreets of <hi>Paris</hi> ran with blood in ſeveral places; And for the Admiral, againſt whom was their chiefeſt ſpight, they flung his body out of a Window, and cauſed it to lye in the open ſtreet to be devoured by Dogs and Vermine: Not long after that, <hi>Henry</hi> the Third King of <hi>France</hi> was traiterouſly mur<g ref="char:EOLhyphen"/>thered at the inſtigation of the Jeſuites, becauſe he was not ſo violent to perſecute the Proteſtants as they would have him then the lawful Heir of the Crown (as they themſelves acknowledged) was <hi>Henry,</hi> Surnamed from his mighty act<g ref="char:EOLhyphen"/>ions afterwards, <hi>The Great,</hi> and Grandfather (by the Mo<g ref="char:EOLunhyphen"/>thers ſide) to our Soveraign Lord King <hi>Charles</hi> the Second, but becauſe he was a Proteſtant, they entred into a Confede<g ref="char:EOLhyphen"/>racy, which they call'd, <hi>The Holy League,</hi> to keep him from
+<pb n="4" facs="tcp:94851:4"/>his Right, till at laſt he conſented to the Roman Religion, but ſtill imagining him not ſo zealous therein as they would have him, he likewiſe was ſome years afterwards murther<g ref="char:EOLhyphen"/>ed, being ſtabb'd by <hi>Ravillat,</hi> a Fanatical Jeſuited Papiſt, in his Coach on the New-Bridge at <hi>Paris,</hi> in the Year 1610.</p>
+            <p>Upon the ſame ſcore, becauſe King <hi>James</hi> was a Prote<g ref="char:EOLhyphen"/>ſtant, ſeveral Papiſts conſpired to debarr him of his juſt right to the Crown of <hi>England,</hi> after the death of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth:</hi> and two Prieſts ſoon after his coming into <hi>England,</hi> were put to death for plotting againſt his Life and Govern<g ref="char:EOLhyphen"/>ment. But in the <hi>5<hi rend="sup">th.</hi>
+               </hi> Year of his Reign (Juſt 73 years ago this preſent Year 1678) The ſaid Papiſts proceeded to ſuch a Treaſon as the World never before heard of, commonly called, <hi>The Gun-powder-Plot,</hi> deſigned to blow up the King, Queen, Prince, and both Houſes of Parliament at one Blaſt: but a Letter being ſent from one of the Conſpirators to a Lord, warning him not to come to the Parliament, becauſe they ſhould receive then a Notable Blow, &amp;c. Search being made, 36. Barrels of Gun-powder were found under the Parliament-Houſe, and <hi>Faux</hi> with a Dark Lan<g ref="char:EOLhyphen"/>thorn ſtanding ready at the time appointed, to give Fire to the Train: Upon which ſeveral perſons concerned, and ſome Preiſts that encouraged them, ſuffered.</p>
+            <p>But if we would take a view of Popery in its true Scarlet Dye, and know what horrible Murthers, Prodigious Cruel<g ref="char:EOLhyphen"/>ties, Barbarous Villanies, and Inhumane Practices the Jeſuits and Fryers are the Authors and encouragers, and Papiſts in general the Actors of, We need not look any further back than the preſent Age: In the Rebellion of <hi>Ireland</hi> wherein there were in all above Three Hundred Thouſand Innocent Proteſtants deſtroyed, and this in a baſe Treacherous manner, without any provocation; No Age, Sex, or Quality being priviledged from Maſſacres and lingring deaths, by being Robbed; ſtript' naked, and ſo
+<pb n="5" facs="tcp:94851:4"/>expoſed to periſh by Cold and Famine, or elſe ſuddenly Hang'd, their Throats cut, Drowned in Rivers, Bogs and Ditches, or elſe Murthered with exquiſite Tortures: Wives Raviſht before their Husbands faces, Children forced to hang up their own parents, others compelled againſt their conſciences to own the Romiſh Superſtitions, and ſwear thereunto in hopes to ſave their lives, and preſently Mur<g ref="char:EOLhyphen"/>thered, as if they deſigned to deſtroy Souls as well as bodies: And ſuch beaſtly Cruelties Acted as the moſt Barbarous Heathens would bluſh to practice. All which being Acted within theſe 40 Years, I hope is not yet, nor ever will be forgot.</p>
+            <p>But leaſt it ſhould, behold! they awake our remembrance with an horrid Plot, which in the conſequence was like to have proved more Bloody and Barbarous than any that went before it, being againſt the Life of our Lord the King and all his good proteſtant Subjects, the Subverſion of the Government, deſtruction of our Religion, &amp;c. And what kind of Spirits were engaged therein, we may ſee by their Inhumane Murther committed upon Sir <hi>Edmund-bury Godfrey,</hi> who being one of this Majeſties Juſtices of the peace for <hi>Middleſex:</hi> Upon the diſcovery, had the Exami<g ref="char:EOLhyphen"/>nation of ſome Prieſts and others concern'd, whom he com<g ref="char:EOLhyphen"/>mitted to <hi>Newgate</hi> on the 28. of <hi>September</hi> laſt; But meerly for doing thus his duty, others of the Tribe were ſo deviliſh<g ref="char:EOLhyphen"/>ly enraged againſt him, that they contrived his death: for on Satudray the <hi>12th.</hi> of <hi>October,</hi> he walking out about 9 a Clock from his Houſe near <hi>Charing-Croſs</hi> on his uſual oc<g ref="char:EOLhyphen"/>caſions, was no more to be ſeen or heard of till the Thurſ<g ref="char:EOLhyphen"/>day following, and then was found in a Ditch at a place call'd <hi>Primroſe-Hill,</hi> near <hi>Hampſtead,</hi> about 3 Miles from <hi>London,</hi> with his Cloaths and Money, nothing miſſing but his Band and a pocket-Book, wherein he had taken the ſaid
+<pb n="6" facs="tcp:94851:5"/>priefts Examination; but his own Sword was run through his bdoy, and ſo left in it: This the Villains had done in<g ref="char:EOLhyphen"/>tending to Murther his Reputation as well as his perſon, and perſuade people that he Muthered himſelf, but in that the Devil made Fools of them, for there being no blood to be ſeen in the place: the ſoles of his Shoes clean, and eſpeci<g ref="char:EOLhyphen"/>ally a Circle about his Neck that ſhew'd he was Strangled; every body concluded he was killed before, and lately car<g ref="char:EOLhyphen"/>ried thither: Hereupon the King publiſht a Proclamation, promiſing 500 <hi>l.</hi> reward, and pardon to any one concern'd that ſhould diſcover the reſt; and at laſt (though rather out of trouble of conſcience than the invitation of that reward) There is a perſon come in who acknowledges himſelf privy to it; that on the ſaid <hi>Saturday</hi> they wheadled in Sir <hi>Edmund<g ref="char:EOLhyphen"/>bury</hi> into an Eminent Houſe in the <hi>Strand,</hi> under pretence of bringing him to ſome that could diſcover more of the Plot, that there they forc'd him into a Room, and two Jeſuits and one prieſt flinging him down, clapt a pillow on his face and ſat thereon, till they thought they had Stiffled him, but finding ſtill ſome life, with a Neckcloth they Strangled him: then 'tis ſaid, they laid the dead body for ſome time, under their Alter as the <hi>ſecureſt place;</hi> but of that there is <hi>yet</hi> no cer<g ref="char:EOLhyphen"/>tainty. However, afterwards they carried it out in a Sedan to the end of the Town; and from thence in a Coach to the place where it was found, running his Word through him oh put poſe to make people believe he killed himſelf, as aforeraid.</p>
+            <p>Theſe are the curſed fruits of <hi>Popery,</hi> the effects of Romiſh zeal and Charity; From which let all good Proteſtants with a juſt Abhorrence, ever pray to be delivered, and that God would ſtill be pleaſed to preſerve our moſt gracious King, and the Religion eſtabliſhed, againſt all their Bloody plots, and Helliſh Conſpiracies.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
